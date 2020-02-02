@@ -8,14 +8,15 @@ The Module Contains Basic 4 Modules
 
 :one: Module-1
    |BASIC SYNTAX.
-        |javascript Events
-             |Comments in JavaScript
-                  |Print
-                      |Variables
-                           |Concatenation
-                                |Datatypes
-                                     |Function
-                                          | Conditional
-                                              |Arrays
-                                                  |Javascript Debugging
-                                                     |Project
+   |     
+   |javascript Events
+   |Comments in JavaScript
+   |Print
+   |Variables
+   |Concatenation
+   |Datatypes
+   |Function
+   | Conditional
+   |Arrays
+   |Javascript Debugging
+   |Project
