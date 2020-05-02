@@ -6,7 +6,11 @@ The Module Contains Basic 4 Modules
 
 :mag: 
 
-:one: Module-1
+:one:
+
+| JS Fundamentals |
+
+Module-1
    |BASIC SYNTAX.
    |     
    |javascript Events
