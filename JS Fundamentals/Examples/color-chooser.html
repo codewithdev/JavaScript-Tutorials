@@ -1,0 +1,21 @@
+
+<style>
+.color-box{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+</style>
+
+<div class="color-box">
+<input class="color-input" placeholder="Type a color name">
+
+<script>
+	
+	const input= document.querySelector('.color-input');
+	const paragraph= document.querySelector('.color-box');
+	input.addEventListener("change",function(){
+		paragraph.style.backgroundColor= input.value;      
+	});
+//This tells the component which need to change and act according to the Event.
+</script>
