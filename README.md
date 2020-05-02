@@ -1,26 +1,12 @@
-# JavaScript-Tutorials
-Hello Guys, welcome to The JavaScript Tutorials. The JavaScript is an popular Scripting Programming language which is used by Developers to Create and Develop Beautiful websites. The Repository contains all the Module from Basic to Advance along with Projects. :anger:
+# WELCOME! :sparkles:
+
+### This is Complete JavaScript Tutorial. Well What this Repo contains. Lets find Out :gem:
 
 
-The Module Contains Basic 4 Modules
+:point_right: Fundamentals of JS( Crash Learning From Ground Level)
 
-:mag: 
+:point_right: DOM(Document Object Model Tutorials)
 
-:one:
-
-| JS Fundamentals |
-
-Module-1
-   |BASIC SYNTAX.
-   |     
-   |javascript Events
-   |Comments in JavaScript
-   |Print
-   |Variables
-   |Concatenation
-   |Datatypes
-   |Function
-   | Conditional
-   |Arrays
-   |Javascript Debugging
-   |Project
+:point_right: Modules Comprises Basic Syntax as well as Advance Topics.
+ 
+:point_right: Feel Free to PR( :relaxed:)
