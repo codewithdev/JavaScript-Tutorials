@@ -1,0 +1,32 @@
+
+
+
+<button class="event-button">Click Me</button>
+<script >
+	const button = document.querySelector('event-button');
+    button.addEventListener('click', function(){
+    	alert("Hey There!");
+    });
+</script>
+
+
+
+<!--Call Map-->
+
+<input placeholder="Type into me" class= "input-to-copy">
+<p class="p-to-copy">Nothing has happened yet</p>
+
+<script>
+	
+ const input= document.querySelector('.input-to-copy');
+ const paragraph= document.querySelector('p-to-copy');
+ input.addEventListener("keyup", function(){
+ 	paragraph.innerText= input.value;
+ });
+
+</script>
+
+<!--We're now using the keyup event. This event happens whenever you release a key after pressing it. As you may guess, there is a keydown event too that is fired whenver you press a key. We're using keyup because keydown happens before a key actually registers which means we would always be one key behind.
+We're reference input.value. The value property of an input reflects whatever the user has typed into the input.
+We're taking whatever is in input.value and passing that directly into the paragraph.innerText. Since that function is called every time a user types into the input, it keeps the two in sync -->
+
