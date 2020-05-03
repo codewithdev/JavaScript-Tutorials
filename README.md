@@ -27,9 +27,9 @@ Basic Knowledge of HTML/CSS
    <li> Wait for the Popup.Install `Emmet`</li>
 
 
->_**Emmet is smartest Snippet. You will avoid typing extra for class name etc.**_<
+>_**Emmet is smartest Snippet. You will avoid typing extra for class name etc.**_
   
-Useful Resources for HTML/CSS learning:
+#### Useful Resources for HTML/CSS learning:
 
 https://www.freecodecamp.org/
 
