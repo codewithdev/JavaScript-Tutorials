@@ -4,7 +4,7 @@
 
 # WELCOME! :sparkles:
 
-### This is Complete JavaScript Tutorial. Well What this Repo contains. Lets find Out :gem:
+### This is Complete JavaScript Tutorial.:gem:
 
 
 :point_right: Fundamentals of JS( Crash Learning From Ground Level)
