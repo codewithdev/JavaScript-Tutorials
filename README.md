@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/%F0%9F%92%96-Open%20Source-yellow)
+![](https://img.shields.io/github/issues/codewithdev/JavaScript-Tutorials)
+![](https://img.shields.io/github/forks/codewithdev/JavaScript-Tutorials)
+
 # WELCOME! :sparkles:
 
 ### This is Complete JavaScript Tutorial. Well What this Repo contains. Lets find Out :gem:
