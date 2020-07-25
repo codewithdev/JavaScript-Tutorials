@@ -9,12 +9,12 @@
 - Delete a key-value pair from an object
 
 
-<h5 style="align-items:center"> Introduction </h5>
+## Introduction
 
 
 "An Object is an Key-Value Pair like and Dictionary.That means in Object we can look something by its key and get back to its Value."
 
-<h4> Creating the Object </h4>
+## Creating the Object 
 
 We can create Object in Two ways...
 
@@ -41,4 +41,5 @@ We can create Object in Two ways...
 
 
 
-<h4 style="color: #212313;"> Top Tip: we can use variables as object keys. You have to wrap the key in Square Bracket</h4>
+<h4 style="color: blue;"> Top Tip: we can use variables as object keys. You have to wrap the key in Square Bracket</h4>
+
