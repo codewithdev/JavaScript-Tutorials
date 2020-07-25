@@ -23,7 +23,8 @@ We can create Object in Two ways...
  - Object Constructor
 
  1. **Literal Method:**  
-                     `` var language= {};``
+                     ```js var language= {};```  
+
 
      _the curly braces are an object_                
 
@@ -69,3 +70,17 @@ We can use Object.assign() to create a new object and pass it properties from ex
 
 `` Object.assign({ eggs: 3 }, { flour: '1 cup' })
 // { eggs: 3, flour: '1 cup' }``
+
+
+
+## Deleting a Key-Value Pair
+
+Let's say we want to delete breakfast since its 2 PM.
+
+```js
+var meals = { breakfast: "oatmeal", lunch: "turkey sandwich", dinner: "steak and potatoes" };	``
+
+//**_The `delete` operator returns True or False._** 
+
+  delete meals.breakfast  
+  meals; //returns {lunch: "turkey sandwich", dinner:"steak and potatoes"}
