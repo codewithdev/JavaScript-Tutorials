@@ -24,11 +24,16 @@ console.log(4)
 console.log(5) 
 ```
 
-and this logs     ```js
+and this logs     ```
                     1
                     2
 					3
 					4
 					5
 					```
+
+In JS we have three loops ```for Loop```, ```while```, and ```do-while```
+
+<h2>For Loop</h2>
+
 
