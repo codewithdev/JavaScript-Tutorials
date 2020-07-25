@@ -71,6 +71,14 @@ We can use Object.assign() to create a new object and pass it properties from ex
 `` Object.assign({ eggs: 3 }, { flour: '1 cup' })
 // { eggs: 3, flour: '1 cup' }``
 
+**Syntax:**
+
+ ```js 
+      Object.assign({},objName, {[key]:value}); 
+ ```
+
+
+
 
 
 ## Deleting a Key-Value Pair
