@@ -19,16 +19,22 @@
 
 ## Requirement
 
-Basic Knowledge of HTML/CSS
+No Prior Knowledge Needed 
 
 ## How to Start ?
 
 # Editor:
 
+
+#### ``Ctrl +Shift + I`` To Open Chrome JS Pan. 
+Then ``Ctrl + l`` to clear the unncessary Snippet.
+
+#### or
+
 #### For Sublime Users-
    <ol><li>Go to the `Preferences` then `Package-Control` </li>
    <li>Go to `Install Package`</li>
-   <li> Wait for the Popup.Install `Emmet`</li>
+   <li> Wait for the Popup and Install `Emmet`</li>
 
 
 >_**Emmet is smartest Snippet. You will avoid typing extra for class name etc.**_
