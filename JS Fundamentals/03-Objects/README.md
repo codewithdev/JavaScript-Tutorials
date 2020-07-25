@@ -41,4 +41,4 @@ We can create Object in Two ways...
 
 
 
-<h4 style="color: blue"> Top Tip: we can use variables as object keys. You have to wrap the key in Square Bracket</h4>
+<h4 style="color: #212313;"> Top Tip: we can use variables as object keys. You have to wrap the key in Square Bracket</h4>
