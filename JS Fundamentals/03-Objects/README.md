@@ -43,3 +43,25 @@ We can create Object in Two ways...
 
 <h4 style="color: blue;"> Top Tip: we can use variables as object keys. You have to wrap the key in Square Bracket</h4>
 
+
+## Accessing the Object
+
+ Object can be accessed by either using  ``.`` or ``[]``
+
+``var sweetMeal = 'dessert'
+  meals[sweetMeal] = 'cake';
+  meals.dessert // 'cake'
+  meals[sweetMeal] // 'cake' ``
+
+
+
+## Adding a Key-Value Pair to Object
+
+**Object.assign()**
+
+We can use Object.assign() to create a new object and pass it properties from existing objects. The first value is the target object that gets modified. All the values afterward can be any number of objects. It then copies them from left to right onto the target object (so if two objects share a key, the right-most object's value for that key will win). Let's try it out:
+
+``Object.assign({}, { foo: 'bar' })
+// { foo: 'bar' }
+Object.assign({ eggs: 3 }, { flour: '1 cup' })
+// { eggs: 3, flour: '1 cup' }``
