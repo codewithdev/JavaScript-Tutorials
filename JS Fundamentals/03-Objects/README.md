@@ -36,6 +36,6 @@ We can create Object in Two ways...
 
  2. **Object Constructor:**
 
-                    ``var lang = new Object();``
+                    var lang = new Object();
 
-                    ``var lang= new Object({Key: 'Value'})``
+                    var lang= new Object({Key: 'Value'})
