@@ -24,3 +24,11 @@ console.log(4)
 console.log(5) 
 ```
 
+and this logs     ```js
+                    1
+                    2
+					3
+					4
+					5
+					```
+
