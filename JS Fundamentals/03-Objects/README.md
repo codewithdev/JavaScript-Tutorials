@@ -37,5 +37,8 @@ We can create Object in Two ways...
  2. **Object Constructor:**
 
                     var lang = new Object();
-
                     var lang= new Object({Key: 'Value'})
+
+
+
+<h4 style="color: blue"> Top Tip: we can use variables as object keys. You have to wrap the key in Square Bracket</h4>
