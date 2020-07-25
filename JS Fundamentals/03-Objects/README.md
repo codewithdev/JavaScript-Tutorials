@@ -1,6 +1,6 @@
 ### JavaScript Object or 'O'
 
-===================================Objective===============================================
+## Objective
 
 
 - Create an object in JS
