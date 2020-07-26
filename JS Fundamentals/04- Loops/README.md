@@ -37,3 +37,69 @@ In JS we have three loops ```for Loop```, ```while```, and ```do-while```
 <h2>For Loop</h2>
 
 
+### Syntax
+
+```js
+for (let num = 1; num < 6; num += 1) {
+  console.log(num)
+}
+````
+
+
+<h2> While Loop</h2>
+
+``A while loop is often used when we don't know how many times a loop needs to run - that is, the condition is dependent on a dynamic function/return value. However, we can actually write any for loop as a while loop if we choose.``
+
+Examples
+
+### Syntax
+
+```js
+while ([condition]) {
+  [loopBody];
+}
+```
+
+**Example**
+
+```js
+let num = 1
+ 
+while (num < 6) {
+  console.log(num)
+  num += 1
+}
+```
+
+<h2> do-While loop </h2>
+
+
+### Syntax
+
+```js
+do {
+  [loopBody];
+} while ([condition]);
+
+```
+
+
+**Example**
+
+```js
+let i = 0;
+ 
+function incrementVariable() {
+  i = i + 1;
+  return i;
+}
+ 
+do {
+  console.log("doo-bee-doo-bee-doo");
+} while (incrementVariable() < 5);
+
+```
+
+
+
+
