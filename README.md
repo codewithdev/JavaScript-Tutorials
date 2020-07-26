@@ -32,13 +32,15 @@ Then ``Ctrl + l`` to clear the unncessary Snippet.
 #### or
 
 #### For Sublime Users-
-   <ol><li>Go to the `Preferences` then `Package-Control` </li>
-   <li>Go to `Install Package`</li>
-   <li> Wait for the Popup and Install `Emmet`</li>
 
+  - Go to `Preferences` and `Install Packages`
+  - Install any JavaScript Snippet
+  - Install NodeJS to run the program.
+  - Install **Git Bash** or **cmder** to run the JS Program. 
 
->_**Emmet is smartest Snippet. You will avoid typing extra for class name etc.**_
+   **Note:-** You can run the program by command in GitBash `node program-name.js` 
 
+   
 ### _Try ``RunJS`` From [Here](https://runjs.dev/) Its a Magic!_
   
 #### Useful Resources for HTML/CSS learning:
